@@ -18,3 +18,4 @@ Display a user's profile including avatar, username, number of repositories, fol
 ## My Socials
 
 Twitter
+Linkedin
