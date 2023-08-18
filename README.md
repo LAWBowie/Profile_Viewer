@@ -16,3 +16,5 @@ Display a user's profile including avatar, username, number of repositories, fol
 [Live Demo](https://lawbowie.github.io/Profile_Viewer/)
 
 ## My Socials
+
+Twitter
